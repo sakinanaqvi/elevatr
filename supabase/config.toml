@@ -1,0 +1,4 @@
+project_id = "kdlecgymohugxkeaxeyi"
+
+[functions.generate-career-content]
+verify_jwt = false
